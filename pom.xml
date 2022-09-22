@@ -31,7 +31,19 @@
         <spring-format.version>0.0.19</spring-format.version>
 
     </properties>
-
+	<developers>
+		<developer>
+      		<id>guipacrod</id>
+      		<name>Guillermo Pacheco</name>
+      		<email>guipacrod@alum.us.es</email>
+      		<organization>US</organization>
+      		<organizationUrl>http://www.informatica.us.es</organizationUrl>
+      		<roles>
+        		<role>developer</role>
+      		</roles>
+      		<timezone>Europe/Spain</timezone>
+      	</developer>
+	</developers>
     <dependencies>
         <!-- Spring and Spring Boot dependencies -->
         <dependency>
